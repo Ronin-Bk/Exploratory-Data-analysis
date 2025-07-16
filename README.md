@@ -1,2 +1,2 @@
 # Exploratory-Data-analysis
-This project is intended to conduct exploratory data analysis (EDA) on a marketing campaign dataset from a telecommunication company
+This project is intended to conduct exploratory data analysis (EDA) on a marketing campaign dataset from a telecommunication company. A telecommunication company recently launched a marketing campaign to promote the adoption of their new subscription plan among customers. The company seeks assistance in gaining a comprehensive understanding of their customers and identifying the customer segments that display the highest responsiveness to marketing campaigns.
